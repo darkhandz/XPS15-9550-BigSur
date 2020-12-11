@@ -6,6 +6,8 @@
 
 感谢@zycer、@zhanglong5460、@qw1363673600几位[帮忙尝试](https://github.com/darkhandz/XPS15-9550-Catalina/issues/11)。
 
+4K配置我没测试，@YahuiWong有[提供一个方法](https://github.com/darkhandz/XPS15-9550-BigSur/issues/1)，请自行测试。
+
 ### 硬件配置
 
 - 机型：DELL XPS15 9550
